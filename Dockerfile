@@ -1,1 +1,1 @@
-FROM nginx
+FROM quay.io/bitnami/nginx
